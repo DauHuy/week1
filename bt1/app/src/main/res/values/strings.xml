@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="button">Button</string>
+    <string name="button2">Button</string>
+    <string name="NewGame">NewGame</string>
+    <string name="button1">Continue Game</string>
+    <string name="button3">Help Game</string>
+    <string name="button4">Quick Game</string>
+</resources>
